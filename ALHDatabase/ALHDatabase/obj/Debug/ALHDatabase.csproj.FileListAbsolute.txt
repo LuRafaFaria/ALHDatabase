@@ -1,0 +1,23 @@
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\bin\Debug\ALHDatabase.exe.config
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\bin\Debug\ALHDatabase.exe
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\bin\Debug\ALHDatabase.pdb
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.csprojAssemblyReference.cache
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.Properties.Resources.resources
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.Registo.resources
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.csproj.GenerateResource.cache
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.csproj.CoreCompileInputs.cache
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.exe
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.pdb
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.LogIn.resources
+C:\Users\luraf\source\repos\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.PaginaInicial.resources
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\bin\Debug\ALHDatabase.exe.config
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\bin\Debug\ALHDatabase.exe
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\bin\Debug\ALHDatabase.pdb
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.csprojAssemblyReference.cache
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.LogIn.resources
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.PaginaInicial.resources
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.Properties.Resources.resources
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.Registo.resources
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.csproj.GenerateResource.cache
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.exe
+C:\Users\nunog\OneDrive\Ambiente de Trabalho\ALHDatabase\ALHDatabase\obj\Debug\ALHDatabase.pdb
